@@ -22,5 +22,10 @@
             "homepage": "http://www.sandortibor.hu",
             "role": "Developer"
         }
-    ]
+    ],
+		"scripts": {
+        "post-package-install": [
+            "MyVendor\\MyClass::postPackageInstall"
+        ]
+    }
 }
