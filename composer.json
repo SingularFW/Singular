@@ -1,5 +1,5 @@
 {
-    "name": "SingularFW/Singular",
+    "name": "singularfw/singular",
     "description": "PHP Framework",
     "type": "project",
     "require": {
